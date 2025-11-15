@@ -70,7 +70,7 @@ class PDFBot:
 1. Send photos → Get PDF
 2. Send PDF → Get compressed PDF
 
-**Support:** अगर कोई problem हो तो developer से contact करें।
+**Support:** अगर कोई problem हो तो developer से contact करें。
         """
         await update.message.reply_text(help_text, parse_mode='Markdown')
     
